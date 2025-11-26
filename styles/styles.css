@@ -12,8 +12,8 @@ body {
 }
 
 .contenido {
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    padding: 20px;
 }
 
 header {
@@ -49,7 +49,7 @@ footer {
 .cat-vid {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    justify-content: center;
 }
 
 .footer-class {
